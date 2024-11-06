@@ -1,6 +1,6 @@
 <!-- Profile Image (DP) -->
 <p align="center">
-    <img src="Profile 1.jpeg" alt="Tharuka Sandaruwan" width="150" height="150" style="border-radius: 50%; border: 3px solid #0D3B66;" />
+    <img src="Profile 1.jpeg" alt="Tharuka Sandaruwan" width="150" height="150" style="border-radius: 50px; border: 3px solid #0D3B66;" />
 </p>
 
 <h1 align="center" style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: bold; color: #0D3B66;">Hi 👋, I'm Tharuka Sandaruwan</h1>
