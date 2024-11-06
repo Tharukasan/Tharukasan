@@ -6,7 +6,7 @@
 <h1 align="center" style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: bold; color: #0D3B66;">Hi 👋, I'm Tharuka Sandaruwan</h1>
 
 <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 20px; color: #333; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    A passionate frontend developer from Sri Lanka. I'm a passionate student and web developer, currently learning React.js and WordPress. I enjoy building modern, user-friendly web pages and am eager to expand my backend development skills.
+    A Enthusiastic web programming student, learning the latest in design & development while building modern, responsive websites.
 </h3>
 
 <!-- Coding Image (optional) -->
